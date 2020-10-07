@@ -1,4 +1,4 @@
-<h2>5 Papers on CNNs Every Data Scientist Should Read </h2>
+<h2>4 Papers on CNNs Every Data Scientist Should Read </h2>
 
 <ul>
 
